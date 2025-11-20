@@ -63,3 +63,13 @@ Utilizza un `if` per verificare se lo score:
 Se entrambe le condizioni sono vere, stampa un messaggio che indica che è stato ottenuto un "Score perfetto" con bonus. Altrimenti stampa lo score attuale.
 
 **Operatori da utilizzare:** `++`, `%`, `&&`, `!`
+
+## Esercizio 5: Ore del Giorno
+**Obiettivo:** Scrivere un saluto per ogni blocco di ore del giorno
+
+**Consegna:**
+Crea una variabile chiamata oraDelGiorno = 18 ecc.
+- 00-06 (buonmattino)
+- 06-12 (buongiorno)
+- 12-18 (buonpomeriggio)
+- 18-24 (buonasera)
