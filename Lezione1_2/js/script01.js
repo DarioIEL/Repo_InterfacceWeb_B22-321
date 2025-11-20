@@ -96,4 +96,5 @@ for (let i = 0; i < frutta.length; i++) {
     document.write("<li> " + frutta[i] + "</li>");
 }
 
+frutta.indexOf("ciliegia"); //-1
 
