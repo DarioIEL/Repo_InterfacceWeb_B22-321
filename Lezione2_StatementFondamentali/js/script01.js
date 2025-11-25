@@ -39,7 +39,7 @@ let conf12 = num3 <= num4; //false
 //Faccio una prova con le string
 
 let parola1 = "Ciao";
-let parola2 = "Ciao";
+let parola2 = "CiaO";
 
 let confPar1 = parola1 == parola2; //false
 console.log(confPar1);

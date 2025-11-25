@@ -37,7 +37,7 @@ console.log(stringa2.toUpperCase());
 
 //Metodi per la scomposizione
 let stringa3 = "Ciao";
-let stringa3InArray = stringa3.split("");
+let stringa3InArray = stringa3.split(""); //["C", "i", "a", "o"]
 console.log(stringa3InArray);
 
 let strArr = ["D","A", "R","I", "O"];
@@ -47,7 +47,7 @@ console.log(ArrString);
 //Esempio
 let mioFile = "documento.txt";
 //Voglio estrarre solo l'estensione del file
-let separaFile = mioFile.split(".");
+let separaFile = mioFile.split("."); //["documento", "txt"]
 console.log(separaFile);
 let estensione = separaFile[separaFile.length - 1];
 console.log("L'estensione del file è " + estensione);
