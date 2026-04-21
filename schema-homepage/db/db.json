@@ -1,0 +1,46 @@
+{
+  "prodotti": [
+    {
+      "id": 0,
+      "nome": "Caffè arabica chicco",
+      "descrizione": "Buon caffè da moka",
+      "prezzo": 19.90,
+      "img": "./images/caffe1.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "Caffè robusta premium",
+      "descrizione": "Caffè intenso e corposo",
+      "prezzo": 24.50,
+      "img": "./images/caffe2.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Caffè blend espresso",
+      "descrizione": "Perfetto per espresso cremoso",
+      "prezzo": 22.00,
+      "img": "./images/caffe3.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Caffè macinato filtro",
+      "descrizione": "Ideale per caffettiera francese",
+      "prezzo": 18.50,
+      "img": "./images/caffe4.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Caffè decaffeinato",
+      "descrizione": "Senza caffeina, gusto pieno",
+      "prezzo": 20.00,
+      "img": "./images/caffe5.jpg"
+    }
+  ],
+
+  "carrello": [
+    {
+      "nome":"Caffè decaffeinato",
+      "prezzo": 20.00
+    }
+  ]
+}
